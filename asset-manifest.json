@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/git-prueba/static/css/main.79778a4e.chunk.css",
-    "main.js": "/git-prueba/static/js/main.88c3788f.chunk.js",
-    "main.js.map": "/git-prueba/static/js/main.88c3788f.chunk.js.map",
+    "main.css": "/git-prueba/static/css/main.2ac706c2.chunk.css",
+    "main.js": "/git-prueba/static/js/main.f53719cb.chunk.js",
+    "main.js.map": "/git-prueba/static/js/main.f53719cb.chunk.js.map",
     "runtime-main.js": "/git-prueba/static/js/runtime-main.7398da32.js",
     "runtime-main.js.map": "/git-prueba/static/js/runtime-main.7398da32.js.map",
-    "static/js/2.6a3aaead.chunk.js": "/git-prueba/static/js/2.6a3aaead.chunk.js",
-    "static/js/2.6a3aaead.chunk.js.map": "/git-prueba/static/js/2.6a3aaead.chunk.js.map",
+    "static/js/2.aa3a90df.chunk.js": "/git-prueba/static/js/2.aa3a90df.chunk.js",
+    "static/js/2.aa3a90df.chunk.js.map": "/git-prueba/static/js/2.aa3a90df.chunk.js.map",
     "index.html": "/git-prueba/index.html",
-    "precache-manifest.dbb8b381fb50edbf99dfb56948a1d500.js": "/git-prueba/precache-manifest.dbb8b381fb50edbf99dfb56948a1d500.js",
+    "precache-manifest.754e5f5d80c3c79f81b2f06e007f0602.js": "/git-prueba/precache-manifest.754e5f5d80c3c79f81b2f06e007f0602.js",
     "service-worker.js": "/git-prueba/service-worker.js",
-    "static/css/main.79778a4e.chunk.css.map": "/git-prueba/static/css/main.79778a4e.chunk.css.map",
-    "static/js/2.6a3aaead.chunk.js.LICENSE.txt": "/git-prueba/static/js/2.6a3aaead.chunk.js.LICENSE.txt"
+    "static/css/main.2ac706c2.chunk.css.map": "/git-prueba/static/css/main.2ac706c2.chunk.css.map",
+    "static/js/2.aa3a90df.chunk.js.LICENSE.txt": "/git-prueba/static/js/2.aa3a90df.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7398da32.js",
-    "static/js/2.6a3aaead.chunk.js",
-    "static/css/main.79778a4e.chunk.css",
-    "static/js/main.88c3788f.chunk.js"
+    "static/js/2.aa3a90df.chunk.js",
+    "static/css/main.2ac706c2.chunk.css",
+    "static/js/main.f53719cb.chunk.js"
   ]
 }
